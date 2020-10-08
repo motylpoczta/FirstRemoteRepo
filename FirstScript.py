@@ -1,0 +1,2 @@
+print("tomek")
+list = 'toemk'
